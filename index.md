@@ -1,18 +1,34 @@
 # Tom Ewing - Portfolio
 
 
-## About me
-You can use the [editor on GitHub](https://github.com/t-ewing/tomewing.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# About me
+Hi! My name is Tom and I'm soon graduating (July 2022) with a First-Class degree with a Masters of Engineering in Electronic Engineering with Music Technology Systems.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This page showcases a selection of projects I have worked on, demonstrating my skillsets across **Audio**, **Acoustics**, **DSP**, and **Embedded Engineering**.
 
-## University Projects
+If you would like to contact me or discuss any of these projects in more detail, please reach out using:
 
-### Realtime Linear Predictive Coding Visualiser and Vowel Phoneme Estimator
-**Languages:** MATLAB
-**Skills:** DSP, Real-Time Audio Analysis, Speech Processing
+**Email:** thomasewing2000@gmail.com
+
+**LinkedIn:** www.linkedin.com/in/tom-ewing-41592623a
+
+# University Projects
+
+## Buffaflo - Audio and Multimedia Dataflow Framework for ARM Cortex-M4 Microcontrollers
+**Languages:** _C, Python, GDScript_
+
+**Skills:** _Embedded Audio Programming, Multirate Systems, DSP, Software and Hardware Debugging_
+
+Buffaflo (a portmentau of 'Buffer' and 'Flow') is a framework designed for constructing modular and runtime-reconfigurable musical instruments and sonification devices for embedded devices. This framework is in active development, and began development as part of my MEng Individual Project to be used for teaching embedded audio programming to 2<sup>nd</sup> Year students.
 
 
+
+## Realtime Linear Predictive Coding Visualiser and Vowel Phoneme Estimator
+**Languages:** _MATLAB_
+
+**Skills:** _DSP, Real-Time Audio Analysis, Speech Processing_
+
+## Double Bass Physical Modelling Instrument
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
