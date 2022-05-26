@@ -1,7 +1,7 @@
 # Tom Ewing - Portfolio
 
 
-## About me
+### About me
 Hi! My name is Tom and I'm soon graduating (July 2022) with a First-Class degree with a Masters of Engineering in Electronic Engineering with Music Technology Systems.
 
 This page showcases a selection of projects I have worked on, demonstrating my skillsets across **Audio**, **Acoustics**, **DSP**, and **Embedded Engineering**.
@@ -12,9 +12,9 @@ If you would like to contact me or discuss any of these projects in more detail,
 
 **LinkedIn:** www.linkedin.com/in/tom-ewing-41592623a
 
-## University Projects
+# University Projects
 
-### Buffaflo - Audio and Multimedia Dataflow Framework for ARM Cortex-M4 Microcontrollers
+## Buffaflo - Audio and Multimedia Dataflow Framework for ARM Cortex-M4 Microcontrollers
 **Languages:** _C, Python, GDScript_
 
 **Skills:** _Embedded Audio Programming, Embedded C, Multirate Systems, DSP, Software and Hardware Debugging_
@@ -26,14 +26,14 @@ The framework allows for audio generating and processing 'modules' to be connect
 The embedded framework is coded in C, with ancillary graph-generation scripts written in Python (NumPy, SciPy Matplotlib) and an OLED design tool for prototyping simple GUIs developed in Godot using GDScript. 
 
 
-### Real-Time Linear Predictive Coding Visualiser and Vowel Phoneme Estimator
+## Real-Time Linear Predictive Coding Visualiser and Vowel Phoneme Estimator
 **Languages:** _MATLAB_
 
 **Skills:** _DSP, Real-Time Audio Analysis, Speech Processing_
 
 A set of MATLAB tools for performing real-time Linear Predictive Coding (LPC) of either live or pre-recorded speech data. The process estimates and plots an approximation of the vocal tract's resonances - essentially what the vocal tract would look like as an audio filter. Applications include speech recognition and resonance tuning for vocalists. 
 
-### Double Bass Physical Modelling Synthesizer
+## Double Bass Physical Modelling Synthesizer
 **Languages:** _MATLAB, HTML_
 
 **Skills:** _Physical Modelling Synthesis, Digital Waveguide Modelling, Digital Filtering, Audio Analysis_
