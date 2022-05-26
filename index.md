@@ -17,18 +17,21 @@ If you would like to contact me or discuss any of these projects in more detail,
 ## Buffaflo - Audio and Multimedia Dataflow Framework for ARM Cortex-M4 Microcontrollers
 **Languages:** _C, Python, GDScript_
 
-**Skills:** _Embedded Audio Programming, Multirate Systems, DSP, Software and Hardware Debugging_
+**Skills:** _Embedded Audio Programming, Embedded C, Multirate Systems, DSP, Software and Hardware Debugging_
 
-Buffaflo (a portmentau of 'Buffer' and 'Flow') is a framework designed for constructing modular and runtime-reconfigurable musical instruments and sonification devices for embedded devices. This framework is in active development, and began development as part of my MEng Individual Project to be used for teaching embedded audio programming to 2<sup>nd</sup> Year students.
+**Description:** Buffaflo (a portmentau of 'Buffer' and 'Flow') is a framework designed for constructing modular and runtime-reconfigurable musical instruments and sonification devices for embedded devices. This framework is in active development, and began development as part of my MEng Individual Project to be used for teaching embedded audio programming to 2<sup>nd</sup> Year students.
+
+The framework allows for audio generating and processing 'modules' to be connected flexibly in a range of setups and reconfigured at runtime. A library of modules capable of waveform oscillation, envelope generation, sampling, and interfacing with external peripherals are provided, whilst being simple and intuitive for users to develop their own modules. 
+
+The embedded framework is coded in C, with ancillary graph-generation scripts written in Python (NumPy, SciPy Matplotlib) and an OLED design tool for prototyping simple GUIs developed in Godot using GDScript. 
 
 
-
-## Realtime Linear Predictive Coding Visualiser and Vowel Phoneme Estimator
+## Real-Time Linear Predictive Coding Visualiser and Vowel Phoneme Estimator
 **Languages:** _MATLAB_
 
 **Skills:** _DSP, Real-Time Audio Analysis, Speech Processing_
 
-## Double Bass Physical Modelling Instrument
+## Double Bass Physical Modelling Synthesizer
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
