@@ -6,7 +6,7 @@ Hi! My name is Tom and I'm soon graduating (July 2022) with a First-Class degree
 
 This page showcases a selection of projects I have worked on, demonstrating my skillsets across **Audio**, **Acoustics**, **DSP**, and **Embedded Engineering**.
 
-If you would like to contact me or discuss any of these projects in more detail, please reach out using:
+If you would like to contact me or discuss any of these projects in more detail, you can do so using my:
 
 **Email:** thomasewing2000@gmail.com
 
