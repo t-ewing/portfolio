@@ -31,10 +31,16 @@ The embedded framework is coded in C, with ancillary graph-generation scripts wr
 
 **Skills:** _DSP, Real-Time Audio Analysis, Speech Processing_
 
+A set of MATLAB tools for performing real-time Linear Predictive Coding (LPC) of either live or pre-recorded speech data. The process estimates and plots an approximation of the vocal tract's resonances - essentially what the vocal tract would look like as an audio filter. Applications include speech recognition and resonance tuning for vocalists. 
+
 ### Double Bass Physical Modelling Synthesizer
 **Languages:** _MATLAB, HTML_
 
-**Skills:** _Physical Modelling Synthesis, Digital Waveguide Modelling, Digital FIltering, Audio Analysis_
+**Skills:** _Physical Modelling Synthesis, Digital Waveguide Modelling, Digital Filtering, Audio Analysis_
+
+A physically-modelled double/upright bass instrument, consisting of digital waveguide strings, scattering junctions and body filtering to produce a dynamic variety of realistic tones. 
+
+This project involved developing the instrument in MATLAB, using relevant FFT and Spectrogram measurements to analyse its output. The development was journalled and presented in an appropriately formatted HTML file.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
