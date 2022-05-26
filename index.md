@@ -8,9 +8,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## University Projects
 
-### Project 1
+### Realtime Linear Predictive Coding Visualiser and Vowel Phoneme Estimator
+**Languages: ** MATLAB
+**SkillS: ** DSP, Real-Time Audio Analysis, Speech Processing
 
-#### Header 4
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
