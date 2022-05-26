@@ -1,7 +1,7 @@
 # Tom Ewing - Portfolio
 
 
-## About me
+# About me
 Hi! My name is Tom and I'm soon graduating (July 2022) with a First-Class degree with a Masters of Engineering in Electronic Engineering with Music Technology Systems.
 
 This page showcases a selection of projects I have worked on, demonstrating my skillsets across **Audio**, **Acoustics**, **DSP**, and **Embedded Engineering**.
@@ -12,12 +12,12 @@ If you would like to contact me or discuss any of these projects in more detail,
 
 **LinkedIn:** www.linkedin.com/in/tom-ewing-41592623a
 
-## University Projects
+# University Projects
 
-#### Buffaflo - Audio and Multimedia Dataflow Framework for ARM Cortex-M4 Microcontrollers
-###**Languages:** _C, Python, GDScript_
+## Buffaflo - Audio and Multimedia Dataflow Framework for ARM Cortex-M4 Microcontrollers
+### **Languages:** _C, Python, GDScript_
 
-###**Skills:** _Embedded Audio Programming, Embedded C, Multirate Systems, DSP, Software and Hardware Debugging_
+### **Skills:** _Embedded Audio Programming, Embedded C, Multirate Systems, DSP, Software and Hardware Debugging_
 
 **Description:** Buffaflo (a portmentau of 'Buffer' and 'Flow') is a framework designed for constructing modular and runtime-reconfigurable musical instruments and sonification devices for embedded devices. This framework is in active development, and began development as part of my MEng Individual Project to be used for teaching embedded audio programming to 2<sup>nd</sup> Year students.
 
