@@ -32,6 +32,9 @@ The embedded framework is coded in C, with ancillary graph-generation scripts wr
 **Skills:** _DSP, Real-Time Audio Analysis, Speech Processing_
 
 ## Double Bass Physical Modelling Synthesizer
+**Languages:** _MATLAB, HTML_
+
+**Skills:** _Physical Modelling Synthesis, Digital Waveguide Modelling, Digital FIltering, Audio Analysis_
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
