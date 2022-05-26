@@ -9,8 +9,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ## University Projects
 
 ### Realtime Linear Predictive Coding Visualiser and Vowel Phoneme Estimator
-**Languages: ** MATLAB
-**SkillS: ** DSP, Real-Time Audio Analysis, Speech Processing
+**Languages:** MATLAB
+**Skills:** DSP, Real-Time Audio Analysis, Speech Processing
 
 
 
