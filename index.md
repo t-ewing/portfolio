@@ -31,7 +31,7 @@ The embedded framework is coded in C, with ancillary graph-generation scripts wr
 
 **Skills:** _DSP, Real-Time Audio Analysis, Speech Processing_
 
-![image](/../gh-pages/Portfolio_Images/LPC.png)
+![image](/./Portfolio_Images/LPC.png)
 
 A set of MATLAB tools for performing real-time Linear Predictive Coding (LPC) of either live or pre-recorded speech data. The process estimates and plots an approximation of the vocal tract's resonances - essentially what the vocal tract would look like as an audio filter. Applications include speech recognition and resonance tuning for vocalists. 
 
@@ -40,7 +40,7 @@ A set of MATLAB tools for performing real-time Linear Predictive Coding (LPC) of
 
 **Skills:** _Physical Modelling Synthesis, Digital Waveguide Modelling, Digital Filtering, Audio Analysis_
 
-![image](/../gh-pages/Portfolio_Images/PhysMod.png)
+![image](/./Portfolio_Images/PhysMod.png)
 
 A physically modelled double/upright bass instrument, consisting of digital waveguide strings, scattering junctions and body filtering to produce a dynamic variety of realistic tones. This project involved developing the instrument in MATLAB, using relevant FFT and Spectrogram measurements to analyse its output. The development was journaled and presented in an appropriately formatted HTML file.
 
@@ -51,7 +51,7 @@ Further skills learned in this module include the development of realistic rever
 
 **Skills:** _Acoustic Analysis, Impulse Response Measurement and Analysis_
 
-![image](/../gh-pages/Portfolio_Images/Acoustics.png)
+![image](/./Portfolio_Images/Acoustics.png)
 
 This project involved recording and analysing a room impulse response as well as using physical measurement to determine room modes. From this data, the room was comprehensively reviewed in terms of its suitability for lectures and as a music venue - accompanied with suggestions for the type, size, and placement of acoustic treatment required to improve the space's characteristics.
 
@@ -60,7 +60,7 @@ This project involved recording and analysing a room impulse response as well as
 
 **Skills:** _UI/UX Design, GUI Programming, Android Development, Market Research, Team Management_
 
-![image](/../gh-pages/Portfolio_Images/SwEng.png)
+![image](/./Portfolio_Images/SwEng.png)
 
 This was a group project, where my main responsibilities were researching and implementing modern app user interface and user experience trends. The app is targeted towards hikers, providing first aid information and tips on identifying bird and plant species. Multimedia in design, the app is capable of displaying images, text, videos, graphics, and audio within an easily navigable menu system. The team operated using the Agile methodolgy, collaborating effectively using Slack and GitHub.  
 
