@@ -17,20 +17,21 @@ If you would like to contact me or discuss any of these projects in more detail,
 ## Buffaflo - Audio and Multimedia Dataflow Framework for ARM Cortex-M4 Microcontrollers
 **Languages:** _C, Python, GDScript_
 
-**Skills:** _Embedded Audio Programming, Embedded C, Multirate Systems, DSP, Software and Hardware Debugging_
+**Skills:** _Embedded Audio Programming, Embedded C, Driver Development, Concurrent Systems, Multirate Systems, DSP, Software and Hardware Debugging_
 
-**Description:** Buffaflo (a portmentau of 'Buffer' and 'Flow') is a framework designed for constructing modular and runtime-reconfigurable musical instruments and sonification devices for embedded devices. This framework is in active development, and began development as part of my MEng Individual Project to be used for teaching embedded audio programming to 2<sup>nd</sup> Year students.
+**Description:** Buffaflo (a portmentau of 'Buffer' and 'Flow') is a framework designed for constructing modular and runtime-reconfigurable musical instruments and sonification devices for embedded devices. This framework is in active development, and began implementation as part of my MEng Individual Project to be used for teaching embedded audio programming to 2<sup>nd</sup> Year students.
 
-The framework allows for audio generating and processing 'modules' to be connected flexibly in a range of setups and reconfigured at runtime. A library of modules capable of waveform oscillation, envelope generation, sampling, and interfacing with external peripherals are provided, whilst being simple and intuitive for users to develop their own modules. 
+The framework allows for audio generating and processing 'modules' to be connected flexibly in a range of setups and reconfigured at runtime. A library of modules capable of waveform synthesis, envelope generation, sampling, and interfacing with external peripherals are provided, whilst also providing simple and intuitive functionality for users to develop their own modules. 
 
-The embedded framework is coded in C, with ancillary graph-generation scripts written in Python (NumPy, SciPy Matplotlib) and an OLED design tool for prototyping simple GUIs developed in Godot using GDScript. 
+The embedded framework is coded in C, with ancillary graph-generation scripts written in Python (NumPy, SciPy, Matplotlib) and an OLED design tool for prototyping simple GUIs developed in Godot using GDScript. 
 
 
 ## Real-Time Linear Predictive Coding Visualiser and Vowel Phoneme Estimator
-![image](/Porfolio_Images/LPC.PNG)
 **Languages:** _MATLAB_
 
 **Skills:** _DSP, Real-Time Audio Analysis, Speech Processing_
+
+![image](/../gh-pages/Portfolio_Images/LPC.png)
 
 A set of MATLAB tools for performing real-time Linear Predictive Coding (LPC) of either live or pre-recorded speech data. The process estimates and plots an approximation of the vocal tract's resonances - essentially what the vocal tract would look like as an audio filter. Applications include speech recognition and resonance tuning for vocalists. 
 
@@ -39,9 +40,20 @@ A set of MATLAB tools for performing real-time Linear Predictive Coding (LPC) of
 
 **Skills:** _Physical Modelling Synthesis, Digital Waveguide Modelling, Digital Filtering, Audio Analysis_
 
-A physically-modelled double/upright bass instrument, consisting of digital waveguide strings, scattering junctions and body filtering to produce a dynamic variety of realistic tones. 
+![image](/../gh-pages/Portfolio_Images/PhysMod.png)
 
-This project involved developing the instrument in MATLAB, using relevant FFT and Spectrogram measurements to analyse its output. The development was journalled and presented in an appropriately formatted HTML file.
+A physically-modelled double/upright bass instrument, consisting of digital waveguide strings, scattering junctions and body filtering to produce a dynamic variety of realistic tones. This project involved developing the instrument in MATLAB, using relevant FFT and Spectrogram measurements to analyse its output. The development was journalled and presented in an appropriately formatted HTML file.
+
+Further skills taught in this module included the development of realistic reverberation algorithms, spectral modelling synthesisers and electronic circuit modelling.
+
+## Room Acoustics and Psychoacoustics Analysis
+**Languages:** _MATLAB_
+
+**Skills:** _Acoustic Analysis, Impulse Response Measurement and Analysis_
+
+![image](/../gh-pages/Portfolio_Images/Acoustics.png)
+
+This project involved recording and analysing a room impulse response as well as using physical measurement to determine room modes. From this data, the room was comprehensively reviewed in terms of its suitability for lectures and as a music venue - accompanied with suggestions for the type, size, and placement of acoustic treatment required to improve the space's characteristics.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
