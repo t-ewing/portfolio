@@ -2,7 +2,7 @@
 
 
 ### About me
-Hi! My name is Tom and I'm soon graduating (July 2022) with a First-Class degree with a Masters of Engineering in Electronic Engineering with Music Technology Systems.
+Hi! My name is Tom and I'm soon graduating (July 2022) from the University of York with a First-Class degree with a **Masters of Engineering in Electronic Engineering with Music Technology Systems**.
 
 This page showcases a selection of projects I have worked on, demonstrating my skillsets across **Audio**, **Acoustics**, **DSP**, and **Embedded Engineering**.
 
@@ -17,9 +17,9 @@ If you would like to contact me or discuss any of these projects in more detail,
 ## Buffaflo - Audio and Multimedia Dataflow Framework for ARM Cortex-M4 Microcontrollers
 **Languages:** _C, Python, GDScript_
 
-**Skills:** _Embedded Audio Programming, Embedded C, Driver Development, Concurrent Systems, Multirate Systems, DSP, Software and Hardware Debugging_
+**Skills:** _Embedded Audio Programming, Embedded C, Driver Development, Concurrent Systems, Multi-rate Systems, DSP, Software and Hardware Debugging_
 
-**Description:** Buffaflo (a portmentau of 'Buffer' and 'Flow') is a framework designed for constructing modular and runtime-reconfigurable musical instruments and sonification devices for embedded devices. This framework is in active development, and began implementation as part of my MEng Individual Project to be used for teaching embedded audio programming to 2<sup>nd</sup> Year students.
+**Description:** Buffaflo (a portmenteau of 'Buffer' and 'Flow') is a framework designed for constructing modular and runtime-reconfigurable musical instruments and sonification devices for embedded devices. This framework is in active development, and began implementation as part of my MEng Individual Project to be used for teaching embedded audio programming to 2<sup>nd</sup> Year students.
 
 The framework allows for audio generating and processing 'modules' to be connected flexibly in a range of setups and reconfigured at runtime. A library of modules capable of waveform synthesis, envelope generation, sampling, and interfacing with external peripherals are provided, whilst also providing simple and intuitive functionality for users to develop their own modules. 
 
@@ -42,9 +42,9 @@ A set of MATLAB tools for performing real-time Linear Predictive Coding (LPC) of
 
 ![image](/../gh-pages/Portfolio_Images/PhysMod.png)
 
-A physically-modelled double/upright bass instrument, consisting of digital waveguide strings, scattering junctions and body filtering to produce a dynamic variety of realistic tones. This project involved developing the instrument in MATLAB, using relevant FFT and Spectrogram measurements to analyse its output. The development was journalled and presented in an appropriately formatted HTML file.
+A physically modelled double/upright bass instrument, consisting of digital waveguide strings, scattering junctions and body filtering to produce a dynamic variety of realistic tones. This project involved developing the instrument in MATLAB, using relevant FFT and Spectrogram measurements to analyse its output. The development was journaled and presented in an appropriately formatted HTML file.
 
-Further skills taught in this module included the development of realistic reverberation algorithms, spectral modelling synthesisers and electronic circuit modelling.
+Further skills learned in this module include the development of realistic reverberation algorithms, spectral modelling synthesis and electronic circuit modelling.
 
 ## Room Acoustics and Psychoacoustics Analysis
 **Languages:** _MATLAB_
@@ -55,33 +55,17 @@ Further skills taught in this module included the development of realistic rever
 
 This project involved recording and analysing a room impulse response as well as using physical measurement to determine room modes. From this data, the room was comprehensively reviewed in terms of its suitability for lectures and as a music venue - accompanied with suggestions for the type, size, and placement of acoustic treatment required to improve the space's characteristics.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Programming Experience
+- Python (8+ years)
+- C (4+ years)
+- MATLAB (4+ years)
 
-```markdown
-Syntax highlighted code block
+I also have experience in Swift for iOS development and Java for desktop and Android development.
 
-# Header 1
-## Header 2
-### Header 3
-#### Header 4
+I am very familiar with Git and GitHub as well as Agile methodologies.
 
-- Bulleted
-- List
+# Other Experience
 
-1. Numbered
-2. List
+Other topics I have excelled in at university include **Analogue and Digital Circuitry**, **Machine Learning**, **Control Engineering**, and **Live and Studio Audio Engineering**. 
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/t-ewing/tomewing.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+I have also worked professionally at a large-scale electronics assembly company, and am well experienced in surface-mount and conventional printed circuit board assembly.
