@@ -27,6 +27,7 @@ The embedded framework is coded in C, with ancillary graph-generation scripts wr
 
 
 ## Real-Time Linear Predictive Coding Visualiser and Vowel Phoneme Estimator
+![image](Porfolio_Images/LPC.PNG)
 **Languages:** _MATLAB_
 
 **Skills:** _DSP, Real-Time Audio Analysis, Speech Processing_
