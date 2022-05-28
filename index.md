@@ -1,7 +1,7 @@
 # Tom Ewing - Portfolio
 
 
-### About me
+# About me
 Hi! My name is Tom and I'm soon graduating (July 2022) from the University of York with a First-Class degree with a **Masters of Engineering in Electronic Engineering with Music Technology Systems**.
 
 This page showcases a selection of projects I have worked on, demonstrating my skillsets across **Audio**, **Acoustics**, **DSP**, and **Embedded Engineering**.
@@ -55,17 +55,44 @@ Further skills learned in this module include the development of realistic rever
 
 This project involved recording and analysing a room impulse response as well as using physical measurement to determine room modes. From this data, the room was comprehensively reviewed in terms of its suitability for lectures and as a music venue - accompanied with suggestions for the type, size, and placement of acoustic treatment required to improve the space's characteristics.
 
+## Hiking and Bird/Plant Identification App
+**Languages:** _Java_
+
+**Skills:** _UI/UX Design, GUI Programming, Android Development, Market Research, Team Management_
+
+![image](/../gh-pages/Portfolio_Images/SwEng.png)
+
+This was a group project, where my main responsibilities were researching and implementing modern app user interface and user experience trends. The app is targeted towards hikers, providing first aid information and tips on identifying bird and plant species. Multimedia in design, the app is capable of displaying images, text, videos, graphics, and audio within an easily navigable menu system. The team operated using the Agile methodolgy, collaborating effectively using Slack and GitHub.  
+
 # Programming Experience
+Thorough usage has given me an advanced understanding of the following languages:
 - Python (8+ years)
 - C (4+ years)
 - MATLAB (4+ years)
 
-I also have experience in Swift for iOS development and Java for desktop and Android development.
+I also have experience in **Swift** for iOS app development and **Java** for desktop and Android development. I have used **C++** and **Csound** when undertaking using the JUCE framework for audio programming, as well as **Pure Data** for patching complex audio systems.
 
 I am very familiar with Git and GitHub as well as Agile methodologies.
 
 # Other Experience
+## University Modules
+Other topics I have excelled in at university include **Analogue and Digital Circuitry**, **Machine Learning**, **Control Engineering**, and **Live and Studio Audio Engineering**.
 
-Other topics I have excelled in at university include **Analogue and Digital Circuitry**, **Machine Learning**, **Control Engineering**, and **Live and Studio Audio Engineering**. 
+In relevant modules, I attained the following results:
+- Control Engineering - **92%**
+- State Space & Digital Control - **89%**
+- Algorithms & Numerical Methods - **100%**
+- Acoustics & Psychoacoustics - **80%**
+- Voice: Acoustics & Applications - **77%**
+- Design, Construction & Test for Audio - **82%**
+- iOS Audio Programming - **81%**
+- Engineering Maths, Signals & Systems - **81%**
 
-I have also worked professionally at a large-scale electronics assembly company, and am well experienced in surface-mount and conventional printed circuit board assembly.
+## Electronics Assembly
+I have also worked professionally at an electronics assembly company, and am well experienced in large-scale surface-mount and conventional printed circuit board construction and testing.
+
+## Nissan Technical Centre Europe Work Experience
+This was a multidisciplinary placement across several departments. Within the Noise, Vibration and Harshness Department, I assisted in the measuring and improvement of the acoustical properties of motor vehicles. In the Audio Department, I shadowed engineers working on the integration of contemporary directional microphone array technologies to improve the quality of hands-free communication and voice commands when driving. As part of the Media Department, I worked on the delivery of office and public news, updates, and advertisements.
+
+## WAHAM Records
+After successfully applying for a grant of £1,150 from the University of York, with three colleagues I established a community-driven record label to support independent artists across the UK. This has involved successful merchandise runs, producing engaging live recordings and releasing our artist's tracks across major streaming services.
