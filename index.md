@@ -17,7 +17,7 @@ If you would like to contact me or discuss any of these projects in more detail,
 ## Buffaflo - Audio and Multimedia Dataflow Framework for ARM Cortex-M4 Microcontrollers
 **Languages:** _C, Python, GDScript_
 
-**Skills:** _Embedded Audio Programming, Embedded C, Driver Development, Concurrent Systems, Multi-rate Systems, DSP, Software and Hardware Debugging_
+**Skills:** _Embedded Audio Programming, 'Bare-Metal' Embedded C, Driver Development, Concurrent Systems, Multi-rate Systems, DSP, Software and Hardware Debugging_
 
 **Description:** Buffaflo (a portmenteau of 'Buffer' and 'Flow') is a framework designed for constructing modular and runtime-reconfigurable musical instruments and sonification devices on embedded platforms - primarily targeting the STM32 family of microcontrollers. This framework is in active development, and began implementation as part of my MEng Individual Project to be used for teaching embedded audio programming to 2<sup>nd</sup> Year Electronic Engineering students.
 
@@ -69,6 +69,8 @@ Thorough usage has given me an advanced understanding of the following languages
 - Python (8+ years)
 - C (4+ years)
 - MATLAB (4+ years)
+
+Included in my low-level programming skillset is programming in assembly and interpreting dissassembly, particularly with the **Thumb-2 Instruction Set** for ARM.
 
 I also have experience in **Swift** for iOS app development and **Java** for desktop and Android development. I have used **C++** and **Csound** when undertaking using the JUCE framework for audio programming, as well as **Pure Data** for patching complex audio systems.
 
