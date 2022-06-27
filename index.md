@@ -1,6 +1,3 @@
-## Tom Ewing - Portfolio
-
-
 # About me
 Hi! My name is Tom and I'm graduating soon (July 2022) from the University of York with a **Masters of Engineering in Electronic Engineering with Music Technology Systems** - I am projected to achieve a First-Class degree.
 
