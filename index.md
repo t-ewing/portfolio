@@ -1,8 +1,8 @@
-# Tom Ewing - Portfolio
+## Tom Ewing - Portfolio
 
 
 # About me
-Hi! My name is Tom and I'm soon graduating (July 2022) from the University of York with a First-Class degree with a **Masters of Engineering in Electronic Engineering with Music Technology Systems**.
+Hi! My name is Tom and I'm graduating soon (July 2022) from the University of York with a **Masters of Engineering in Electronic Engineering with Music Technology Systems** - I am projected to achieve a First-Class degree.
 
 This page showcases a selection of projects I have worked on, demonstrating my skillsets across **Audio**, **Acoustics**, **DSP**, and **Embedded Engineering**.
 
@@ -58,7 +58,7 @@ This project involved recording and analysing a room impulse response as well as
 ## Hiking and Bird/Plant Identification App
 **Languages:** _Java_
 
-**Skills:** _UI/UX Design, GUI Programming, Android Development, Market Research, Team Management_
+**Skills:** _UI/UX Design, GUI Programming, Android Development, Unit and Integration Testing with JUnit, Market Research, Team Management_
 
 ![image](/./Portfolio_Images/SwEng.png)
 
@@ -72,9 +72,9 @@ Thorough usage has given me an advanced understanding of the following languages
 
 Included in my low-level programming skillset is programming in assembly and interpreting dissassembly, particularly with the **Thumb-2 Instruction Set** for ARM.
 
-I also have experience in **Swift** for iOS app development and **Java** for desktop and Android development. I have used **C++** and **Csound** when undertaking using the JUCE framework for audio programming, as well as **Pure Data** for patching complex audio systems.
+I also have experience in **Swift** for iOS app development and **Java** for desktop and Android development. I have used **C++** and **Csound** when using the JUCE framework for audio programming, as well as **Pure Data** for patching complex audio systems.
 
-I am very familiar with Git and GitHub as well as Agile methodologies.
+I am very familiar with Git and GitHub, Agile methodologies, and Test-Driven Development.
 
 # Other Experience
 ## University Modules
