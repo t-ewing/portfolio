@@ -3,7 +3,7 @@
 # About me
 Hi! My name is Tom and I'm graduating soon (July 2022) from the University of York with a **Masters of Engineering in Electronic Engineering with Music Technology Systems** - I am projected to achieve a First-Class degree.
 
-This page showcases a selection of projects I have worked on, demonstrating my skillsets across **Audio**, **Acoustics**, **DSP**, and **Embedded Engineering**.
+This page showcases a selection of projects I have developed, demonstrating my skillsets across **Audio**, **Acoustics**, **DSP**, and **Embedded Engineering**.
 
 If you would like to contact me or discuss any of these projects in more detail, you can do so using my:
 
@@ -20,7 +20,7 @@ If you would like to contact me or discuss any of these projects in more detail,
 
 **Description:** Buffaflo (a portmenteau of 'Buffer' and 'Flow') is a framework designed for constructing modular and runtime-reconfigurable musical instruments and sonification devices on embedded platforms - primarily targeting the STM32 family of microcontrollers. This framework is in active development, and began implementation as part of my MEng Individual Project to be used for teaching embedded audio programming to 2<sup>nd</sup> Year Electronic Engineering students.
 
-The framework allows for audio generating and processing 'modules' to be connected flexibly in a range of setups and reconfigured at runtime. A library of modules capable of waveform synthesis, envelope generation, sampling, and interfacing with external peripherals are provided, whilst also providing simple and intuitive functionality for users to develop their own modules. 
+The framework allows for audio generating and processing 'modules' to be connected flexibly in a range of setups and reconfigured at runtime. A library of modules capable of waveform synthesis, envelope generation, sampling, and interfacing with external peripherals are provided, whilst ensuring simple and intuitive functionality for users to develop their own modules. 
 
 The embedded framework is coded in C, with ancillary graph-generation scripts written in Python (NumPy, SciPy, Matplotlib) and an OLED design tool for prototyping simple GUIs developed in Godot using GDScript. 
 
